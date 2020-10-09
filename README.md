@@ -5,4 +5,4 @@
        
        FR : Vendeur de drogues en rageUI (script simple)
        EN : Drugs Dealer in RageUI (simple script)
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
